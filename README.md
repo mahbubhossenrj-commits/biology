@@ -20,3 +20,6 @@ A responsive bilingual (Bangla + English) biology learning website starter.
 - Add your own original lessons, diagrams, PDFs and article pages.
 - Update social links and connect a domain/hosting service.
 - The current dictionary and article cards are starter content, not a complete encyclopedia.
+
+
+New article added: `cell.html` — bilingual Cell Biology overview, cell theory, organelles, plant-vs-animal comparison, functions, quiz, and author signature.

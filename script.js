@@ -1,5 +1,6 @@
 const terms = [
   ["Adaptation","অভিযোজন","A feature that helps an organism survive and reproduce."],
+  ["Anaerobic","অবাত","Not requiring oxygen; occurring in the absence of molecular oxygen."],
   ["Algae","শৈবাল","A diverse group of mostly aquatic, photosynthetic organisms."],
   ["Bacteria","ব্যাকটেরিয়া","Microscopic single-celled prokaryotic organisms."],
   ["Cell","কোষ","The basic structural and functional unit of life."],
