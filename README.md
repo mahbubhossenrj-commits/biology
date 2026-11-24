@@ -23,3 +23,10 @@ A responsive bilingual (Bangla + English) biology learning website starter.
 
 
 New article added: `cell.html` — bilingual Cell Biology overview, cell theory, organelles, plant-vs-animal comparison, functions, quiz, and author signature.
+
+
+NU Honours section added: `honours.html` plus `year-1.html` through `year-4.html`. Each year has a dedicated class-notes area ready for course-wise materials.
+
+
+## Premium visual update
+The stylesheet includes subtle entrance effects, floating botanical artwork, animated rings, glass-style sticky navigation, refined hover states, responsive spacing, and reduced-motion accessibility support. Existing pages and content are preserved.
